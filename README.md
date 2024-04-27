@@ -9,6 +9,19 @@ Develop a Streamlit application to extract information from business card images
 - easyOCR
 - SQLite/MySQL
 
+
+## run codein streamlit, this project intergrated with streamlit ui
+``
+streamlit run main.py
+``
+
+## Enviroment Activate
+
+``
+"your env file name"\scripts\activates.bat
+``
+
+
 ## Libraries Used
 - Streamlit: For building the user interface.
 - easyOCR: For extracting text from business card images.
